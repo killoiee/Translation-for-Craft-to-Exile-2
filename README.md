@@ -16,6 +16,8 @@
 - [Craft to Exile 2](https://www.curseforge.com/minecraft/modpacks/craft-to-exile-2)
 - [Официальный Discord Craft to Exile](https://discord.gg/craft-to-exile)
 
+- [Discord сервер Автора](https://discord.gg/hCeYs3M8CZ)
+
 ![Craft to Exile 2](https://raw.githubusercontent.com/mahjerion/Craft-to-Exile-Dissonance-Server/refs/heads/master/images/banner/cte2/title_revamped_3.png)
 
 ## Теги
