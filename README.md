@@ -2,7 +2,7 @@
 Перевод квестов выполнен с помощью нейросети и дополнительно поверхностно в некоторых местах откорректирован вручную для устранения ошибок.  
 
 Перевод Mine&Slash также сделан с помощью нейросети, но исправлено было больше элементов вручную. Перевод выполнен примерно на 90-95%.
-- Ошибки перевода, непонятные моменты, вопросы - можете написать на моем [Discord](https://discord.gg/hCeYs3M8CZ) сервере или создать тему в [Issues](https://github.com/killoiee/Translation-for-Craft-to-Exile-2/issues). Буду исправлять.
+- По ошибкам перевода, непонятным моментам, вопросам - можете создать тему в [Issues](https://github.com/killoiee/Translation-for-Craft-to-Exile-2/issues).
 
 - **Перевод сделан на версию сборки 0.9.2.**
 
@@ -18,9 +18,6 @@
 - [Craft to Exile 2](https://www.curseforge.com/minecraft/modpacks/craft-to-exile-2)
 - [Официальный Discord Craft to Exile](https://discord.gg/craft-to-exile)  
 ⠀
-- [Discord сервер Автора перевода](https://discord.gg/hCeYs3M8CZ)
-- Поддержать автора можно [тут](https://www.donationalerts.com/r/killoiee)
-
 ![Craft to Exile 2](https://raw.githubusercontent.com/mahjerion/Craft-to-Exile-Dissonance-Server/refs/heads/master/images/banner/cte2/title_revamped_3.png)
 
 ## Теги
